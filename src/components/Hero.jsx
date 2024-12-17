@@ -2,7 +2,7 @@ import heroImg from '../assets/images/hero-home.jpg';
 
 const Hero = () => {
     return (
-        <section className="relative bg-[url('/src/assets/images/hero-home.jpg')] bg-cover bg-center h-[90vh]">
+        <section className="font-Poppins relative bg-[url('/src/assets/images/hero-home.jpg')] bg-cover bg-center h-[90vh]">
 
             <div className="absolute inset-0 bg-black/40"></div>
 
